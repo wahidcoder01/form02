@@ -1,0 +1,18 @@
+body{
+    text-align: ghfcenter;
+    background-color: rgb(104, 216, 216);
+
+
+}
+form{
+    font-weight: 20;
+    font-size: 20px;
+}
+form input{
+    padding: 10px 20px;
+    width: 30%;
+}
+button{
+padding: 10px 20px;
+border-radius: 6px;
+}
